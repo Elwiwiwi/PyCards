@@ -1,6 +1,8 @@
 # Delos Santos, Hailie Sophie R.
 BSIT 1-1 Group 2 (ComFrog)
 
+
+
 import math
 import tkinter as tk
 from tkinter import ttk
